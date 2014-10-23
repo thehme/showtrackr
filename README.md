@@ -1,0 +1,1 @@
+Getting Node.js Angular project running
